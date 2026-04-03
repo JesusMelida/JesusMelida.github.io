@@ -7,6 +7,7 @@ Bienvenido a mi portafolio técnico. Aquí comparto mis proyectos de análisis d
 
 ## 📊 Business Intelligence & Datos
 * **Power BI:** Creación de dashboards interactivos con métricas clave.
+* [Limpiador de Datos Automatizado (Python)](https://github.com/JesusMelida/JesusMelida.github.io/blob/main/limpiador_datos.py)
 * **DAX y Lenguaje M:** Automatización de procesos ETL y modelado de datos avanzado.
 * **SQL Server:** Gestión y consulta de bases de datos relacionales.
 
