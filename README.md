@@ -22,5 +22,4 @@ Bienvenido a mi portafolio técnico. Aquí comparto mis proyectos de análisis d
 * [**Dashboard de Gestión TI (Power BI)**]: Visualización de métricas de soporte técnico.
 
 ---
-📍 San Lorenzo, Paraguay  
-📫 [jesusmelida11@gmail.com.py]
+
