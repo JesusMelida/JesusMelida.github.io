@@ -23,4 +23,4 @@ Bienvenido a mi portafolio técnico. Aquí comparto mis proyectos de análisis d
 
 ---
 📍 San Lorenzo, Paraguay  
-📫 [danimelida38@gmail.com.py]
+📫 [jesusmelida11@gmail.com.py]
