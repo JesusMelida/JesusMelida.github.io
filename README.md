@@ -1,5 +1,5 @@
-# Portafolio Profesional - Jesús Mélida 🇵🇾
-### Estudiante de Ingeniería en Informática | IT Support
+# Portafolio Profesional - Jesús Mélida
+### Estudiante de Ingeniería en Informática
 
 Bienvenido a mi portafolio técnico. Aquí comparto mis proyectos de análisis de datos y desarrollo de software enfocados en soluciones empresariales.
 
